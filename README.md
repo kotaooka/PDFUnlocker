@@ -2,15 +2,9 @@
 
 このPythonスクリプトは、暗号化されたPDFファイルのパスワードを解除するためのものです。
 
-## 必要なライブラリ
-
-このスクリプトを実行するには、以下のPythonライブラリが必要です。
-
-- tkinter
-- PyPDF2
-- os
-- time
-- itertools
+## 導入
+1. Pyhtonをインストールしてください https://www.python.org/downloads/
+2. コマンドプロンプトから pip install PyPDF2 を実行しPyPDF2をインストールしてください
 
 ## 使用方法
 
