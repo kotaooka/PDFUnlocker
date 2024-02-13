@@ -3,8 +3,10 @@
 このPythonスクリプトは、暗号化されたPDFファイルのパスワードを解除するためのものです。
 
 ## 導入
-1. Pyhtonをインストールしてください https://www.python.org/downloads/
-2. コマンドプロンプトから ``pip install PyPDF2`` を実行しPyPDF2をインストールしてください
+1. Pythonをインストールしてください https://www.python.org/downloads/
+2. コマンドプロンプトから `pip install PyPDF2` を実行しPyPDF2をインストールしてください。
+3. https://github.com/kotaooka/PDFUnlocker/releases から `PDFUnlocker.zip`をダウンロードしてください。
+4. `PDFUnlocker.zip`を解答しお好きなディレクトリに配置します。
 
 ## 使用方法
 
