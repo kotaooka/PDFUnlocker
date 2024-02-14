@@ -14,7 +14,7 @@
 3. スクリプトが自動的にパスワードを試行し、適切なパスワードが見つかった場合は、そのPDFファイルを復号化して保存します。
 
 ## 対応している文字列と桁数
-`0123456789abcdefghijklmnopqrstuvwxyz` を組み合わせた1から8桁までの文字列
+`0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ` を組み合わせた1から8桁までの文字列
 
 ## 注意事項
 このコードを使用する際は、必ず法律と倫理を遵守してください。
