@@ -5,7 +5,7 @@ if %ERRORLEVEL% neq 0 (
     exit /b
 )
 if not exist PDFUnlocker.py (
-    echo ImageComparator.py does not exist. Please check the file path and try again.
+    echo PDFUnlocker.py does not exist. Please check the file path and try again.
     exit /b
 )
 python PDFUnlocker.py
